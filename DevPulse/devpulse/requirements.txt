@@ -1,0 +1,1 @@
+streamlit>=1.36,<2.0\npandas>=2.0,<4.0\npytest>=8.0,<9.0\n
